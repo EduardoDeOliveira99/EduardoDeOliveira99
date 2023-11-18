@@ -34,4 +34,4 @@ Olá, fico feliz por estar lendo isso! Tenho 24 anos, amo animais, jogos, esport
 
 ### Meus Principais Desafios até agora
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=EduardoDeOliveira99&repo=web_project_4_ptbr&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5000D5&title_color=80D500&text_color=FFF)](https://github.com/EduardoDeOliveira99/web_project_4_ptbr)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=EduardoDeOliveira99&repo=dio-lab-open-source&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5005D5&title_color=80D500&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
+[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=EduardoDeOliveira99&repo=dio-lab-open-source&bg_color=0d1412&border_color=fff&show_icons=true&icon_color=5005D5&title_color=80D500&text_color=FFF)](https://github.com/EduardoDeOliveira99/js-developer-pokedex)
