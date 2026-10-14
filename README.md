@@ -1,9 +1,9 @@
 # Fala aê! Sou  Eduardo de Oliveira
 
-Hey there, glad you're reading this! I'm 24 years old, love pets, games, sports and technology. Just starting my career in IT area but really exited to learn more every day. Currently on a Full Stack Java + Angular Bootcamp by [Digital Innovation One](https://web.dio.me/home), and also on a graduation for Software Engineering by Unicesumar colege.
+Hey there, glad you're reading this! I'm 27 years old, love pets, games, sports and technology. Just starting my career in IT area but really exited to learn more every day. Currently on a Full Stack Java + Angular Bootcamp by [Digital Innovation One](https://web.dio.me/home), and also on a graduation for Software Engineering by Unicesumar colege.
 
 
-Olá, fico feliz por estar lendo isso! Tenho 24 anos, amo animais, jogos, esportes e tecnologia. Apenas começando minha carreira na área da TI, mas muito animado em aprender mais todos os dias. Atualmente cursando um Bootcamp em Full Stack Java + Angular pela [Digital Innovation One](https://web.dio.me/home), e também em uma graduação de Engenharia de Software pela Insituição Unicesumar.
+Olá, fico feliz por estar lendo isso! Tenho 27 anos, amo animais, jogos, esportes e tecnologia. Apenas começando minha carreira na área da TI, mas muito animado em aprender mais todos os dias. Atualmente cursando um Bootcamp em Full Stack Java + Angular pela [Digital Innovation One](https://web.dio.me/home), e também em uma graduação de Engenharia de Software pela Insituição Unicesumar.
 #
 
 ### Connect With Me!
